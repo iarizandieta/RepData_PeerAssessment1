@@ -1,11 +1,12 @@
 ---
-title: "PA1_template.Rmd"
+title: "PA12_template.Rmd"
 author: "Constanza Arizandieta"
-date: "2 de septiembre de 2019"
+date: "3 de septiembre de 2019"
 output:
   html_document: default
   pdf_document: default
 ---
+
 ## Loading and Processing the Data
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
